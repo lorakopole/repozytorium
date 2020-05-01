@@ -6,6 +6,7 @@ public class zjeb {
 		System.out.println("elo");
 		System.out.println("nie elo");
 		System.out.println("znowu elo");
+		System.out.println("a jednak nie");
 	}
 
 }
